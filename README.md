@@ -1,0 +1,1 @@
+# aralikta-sayi-bulma
